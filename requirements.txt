@@ -1,5 +1,5 @@
-streamlit==1.20.0
-pandas==1.5.3
-python-dotenv==0.21.1
-groq==0.1.2  # Replace with the correct version for your Groq library
-openpyxl==3.1.2
+streamlit
+sqlalchemy
+groq
+jsonlib-python3  # If json-specific utilities are needed
+os-sys
